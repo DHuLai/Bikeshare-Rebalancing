@@ -1,5 +1,5 @@
-# NYCBikes
-Building a predictive usage model for Citi Bike
+# Bike Share Rebalancing
+Building a predictive usage model for Vancouver's Mobi Bikeshare using New York Citi Bikshare data
 
 Data pulled from:<br>
 https://ride.citibikenyc.com/system-data <br>
